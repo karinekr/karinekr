@@ -1,16 +1,31 @@
-## Hi there 👋
+# Oi, eu sou a Karine 👋
 
-<!--
-**karinekr/karinekr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento web e interesse em atuar como **estagiária em TI**.  
+Gosto de aprender fazendo, organizando bem o código e entendendo o fluxo real de trabalho.
 
-Here are some ideas to get you started:
+## 🎯 Objetivo
+Busco uma oportunidade de **estágio em desenvolvimento web**, onde eu possa evoluir tecnicamente em front-end e back-end, contribuindo com projetos reais e aprendendo boas práticas da área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Conhecimentos
+- **Linguagens:** Python, JavaScript
+- **Back-end:** Flask, APIs REST
+- **Front-end:** HTML, CSS (em evolução)
+- **Versionamento:** Git e GitHub
+- **Outros:** lógica de programação, organização de projetos
+
+## 📌 O que estou praticando agora
+- Desenvolvimento de APIs
+- Uso real do Git (commits, merge, push remoto)
+- Organização de repositórios para portfólio
+
+## 📂 Projetos
+- 🔗 **API de Usuários (Flask)**  
+  Projeto back-end para aprendizado de APIs REST e versionamento  
+  👉 https://github.com/karinekr/api-usuarios-flask
+
+## 📬 Contato
+- 📧 Email: karinekaren@outlook.com.br
+- 💻 GitHub: https://github.com/karinekr
+
+
+⭐ Este perfil representa meu processo de aprendizado e crescimento na área de tecnologia.
