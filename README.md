@@ -32,9 +32,7 @@ Busco uma oportunidade de **estágio em desenvolvimento web**, onde eu possa evo
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/1FJ3Z3G6Z4gAAAAC/spiderman-computer.gif" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karinekr&show_icons=true&theme=tokyonight" />
 </p>
-
-
 
 ⭐ Este perfil representa meu processo de aprendizado e crescimento na área de tecnologia.
