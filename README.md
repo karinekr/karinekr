@@ -12,6 +12,10 @@ Busco uma oportunidade de **estágio em desenvolvimento web**, onde eu possa evo
 - **Front-end:** HTML, CSS (em evolução)
 - **Versionamento:** Git e GitHub
 - **Outros:** lógica de programação, organização de projetos
+  
+<p align="center">
+  <img src="[https://media.tenor.com/1FJ3Z3G6Z4gAAAAC/spiderman-computer.gif](https://tenor.com/bLSJF.gif)" width="300"/>
+</p>
 
 ## 📌 O que estou praticando agora
 - Desenvolvimento de APIs
@@ -27,5 +31,12 @@ Busco uma oportunidade de **estágio em desenvolvimento web**, onde eu possa evo
 - 📧 Email: karinekaren@outlook.com.br
 - 💻 GitHub: https://github.com/karinekr
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karinekr&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+"Code, learn, evolve."
+</p>
 
 ⭐ Este perfil representa meu processo de aprendizado e crescimento na área de tecnologia.
