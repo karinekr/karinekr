@@ -23,19 +23,16 @@ Busco uma oportunidade de **estágio em desenvolvimento web**, onde eu possa evo
   Projeto back-end para aprendizado de APIs REST e versionamento  
   👉 https://github.com/karinekr/api-usuarios-flask
 
-
-
-<p align="center">
-="https://github-readme-stats.vercel.app/api?username=karinekr&show_icons=true&theme=tokyonight" />
-</p>
-
-
 ## 📬 Contato
 - 📧 Email: karinekaren@outlook.com.br
 - 💻 GitHub: https://github.com/karinekr
 
 <p align="center">
   <em>Code, learn, evolve.</em>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinekr&layout=compact&theme=tokyonight" />
 </p>
 
 ⭐ Este perfil representa meu processo de aprendizado e crescimento na área de tecnologia.
