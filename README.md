@@ -31,12 +31,14 @@ Busco uma oportunidade de **estágio em desenvolvimento web**, onde eu possa evo
 - 📧 Email: karinekaren@outlook.com.br
 - 💻 GitHub: https://github.com/karinekr
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karinekr&show_icons=true&theme=tokyonight"/>
+<<p align="center">
+  <img src="https://tenor.com/bLSJF.gif" width="300"/>
 </p>
 
 <p align="center">
-"Code, learn, evolve."
+  <em>Code, learn, evolve.</em>
 </p>
+
+
 
 ⭐ Este perfil representa meu processo de aprendizado e crescimento na área de tecnologia.
