@@ -32,9 +32,10 @@ Busco uma oportunidade de **estágio em desenvolvimento web**, onde eu possa evo
 - 💻 GitHub: https://github.com/karinekr
 
 <p align="center">
-  <img src="<img width="498" height="322" alt="image" src="https://github.com/user-attachments/assets/0564b7dc-9295-4bf0-ae49-823afe148f7b" />
+  <img src="<img width="498" height="322" alt="image" src="https://github.com/user-attachments/assets/6c3ce707-e6d6-4645-aec5-135330ee8a34" />
 " width="300"/>
 </p>
+
 
 <p align="center">
   <em>Code, learn, evolve.</em>
