@@ -14,8 +14,7 @@ Busco uma oportunidade de **estágio em desenvolvimento web**, onde eu possa evo
 - **Outros:** lógica de programação, organização de projetos
   
 <p align="center">
-  <img src="[https://media.tenor.com/1FJ3Z3G6Z4gAAAAC/spiderman-computer.gif](https://tenor.com/bLSJF.gif)" width="300"/>
-</p>
+  <img src="[https://media.tenor.com/1FJ3Z3G6Z4gAAAAC/spiderman-computer.gif](https://tenor.com/bLSJF.gif)" width="300"/></p>
 
 ## 📌 O que estou praticando agora
 - Desenvolvimento de APIs
