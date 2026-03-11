@@ -1,34 +1,48 @@
-# Oi, eu sou a Karine 👋
+# Olá, eu sou Karine 👩‍💻
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento web e interesse em atuar como **estagiária em TI**.  
-Gosto de aprender fazendo, organizando bem o código e entendendo o fluxo real de trabalho.
+🎓 Estudante de TI  
+💻 Focada em Desenvolvimento Full Stack  
+🚀 Buscando minha primeira oportunidade na área de tecnologia  
 
-## 🎯 Objetivo
-Busco uma oportunidade de **estágio em desenvolvimento web**, onde eu possa evoluir tecnicamente em front-end e back-end, contribuindo com projetos reais e aprendendo boas práticas da área.
+---
 
-## 🧠 Conhecimentos
-- **Linguagens:** Python, JavaScript
-- **Back-end:** Flask, APIs REST
-- **Front-end:** HTML, CSS (em evolução)
-- **Versionamento:** Git e GitHub
-- **Outros:** lógica de programação, organização de projetos
-  
-## 📌 O que estou praticando agora
-- Desenvolvimento de APIs
-- Uso real do Git (commits, merge, push remoto)
-- Organização de repositórios para portfólio
+## 🚀 Tecnologias e Ferramentas
 
-## 📂 Projetos
-- 🔗 **API de Usuários (Flask)**  
-  Projeto back-end para aprendizado de APIs REST e versionamento  
-  👉 https://github.com/karinekr/api-usuarios-flask
+## 🚀 Tecnologias e Ferramentas
 
-## 📬 Contato
-- 📧 Email: karinekaren@outlook.com.br
-- 💻 GitHub: https://github.com/karinekr
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p align="center">
-  <em>Code, learn, evolve.</em>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-⭐ Este perfil representa meu processo de aprendizado e crescimento na área de tecnologia.
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
+
+## 📚 Atualmente estudando
+
+- JavaScript avançado
+- Node.js
+- Banco de Dados
+- Desenvolvimento Full Stack
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 Sistema de cadastro de usuários  
+🔹 Portfólio de desenvolvedora  
+🔹 Projetos acadêmicos de programação  
+
+---
+
+## 📫 Contato
+
+📧 Email: seuemail@email.com  
+💼 LinkedIn: https://linkedin.com/in/seu-link  
