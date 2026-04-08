@@ -39,12 +39,3 @@
 📧 Email: karinekaren@outlook.com.br
 💼 LinkedIn: www.linkedin.com/in/karine-karen
 
-
-## 📊 Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Karine&show_icons=true&theme=tokyonight)
-
-
-## 💻 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karine&layout=compact&theme=tokyonight)
