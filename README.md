@@ -1,4 +1,4 @@
-# Olá, eu sou Karine 👩‍💻
+# Olá, eu sou a Karine 
 
 🎓 Estudante de TI  
 💻 Focada em Desenvolvimento Full Stack  
