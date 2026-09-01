@@ -1,11 +1,11 @@
 # Olá, eu sou a Karine 
 
-🎓 Estudante de TI  
-💻 Focada em Desenvolvimento Full Stack  
-🚀 Buscando minha primeira oportunidade na área de tecnologia  
+ Estudante de TI  
+ Focada em Desenvolvimento Full Stack  
+ Buscando minha primeira oportunidade na área de tecnologia  
 
 
-## 🚀 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,23 +19,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📚 Atualmente estudando
 
-- JavaScript 
-- Node.js
-- Banco de Dados
-- Desenvolvimento Full Stack
+##  Projetos em destaque
 
-
-## 📌 Projetos em destaque
-
-🔹 Sistema de cadastro de usuários  
+🔹 Fluxo
 🔹 Portfólio de desenvolvedora  
-🔹 Projetos acadêmicos de programação  
 
 
-## 📫 Contato
-
-📧 Email: karinekaren@outlook.com.br
-💼 LinkedIn: www.linkedin.com/in/karine-karen
+## Contato
+https://www.linkedin.com/in/karine-karen/ 
+https://karinekr.github.io/Portfolio/
+](https://www.linkedin.com/in/karine-karen/)](https://karinekr.github.io/Portfolio/)💼 LinkedIn: www.linkedin.com/in/karine-karen
 
