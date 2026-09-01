@@ -28,4 +28,5 @@
 
 ## Contato
 https://www.linkedin.com/in/karine-karen/ 
+
 https://karinekr.github.io/Portfolio/
