@@ -22,12 +22,10 @@
 
 ##  Projetos em destaque
 
-🔹 Fluxo
-🔹 Portfólio de desenvolvedora  
+ Fluxo
+ Portfólio de desenvolvedora  
 
 
 ## Contato
 https://www.linkedin.com/in/karine-karen/ 
 https://karinekr.github.io/Portfolio/
-](https://www.linkedin.com/in/karine-karen/)](https://karinekr.github.io/Portfolio/)💼 LinkedIn: www.linkedin.com/in/karine-karen
-
